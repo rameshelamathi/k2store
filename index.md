@@ -1,37 +1,47 @@
-## Happy that found us!
+## Welcome
 
-K2Store has been archived in favour of our robust eCommerce platform for Joomla - [J2Store](https://www.j2store.org). We strongly recommend you to switch to J2Store as it is more flexible, offers tons of features and also has integration with your favourite K2, the CCK for Joomla.
+K2Store is one the most loved simple eCommerce solution that worked based on the famous K2 content construction Kit for Joomla.  
+After serving the community for well over 5 years, we are archiving the project, in favour of our robust eCommerce platform for Joomla - [J2Store](https://www.j2store.org). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We strongly recommend you to switch to J2Store as it is more flexible, offers tons of features and also has integration with your favourite K2, the CCK for Joomla.
 
-### Markdown
+### Why the change of heart?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+K2Store is developed with the intention of being a simple eCommerce solution. With more and more customers finding it quite handy, people were also looking for more features. While we are already developing J2Store as a full-fledged eCommerce solution, working on almost similar features in K2Store led to quite a lot of duplication - in all fronts. Example: Payment gateways.
 
-```markdown
-Syntax highlighted code block
+Instead of dividing the attention and time between two similar solutions, we decided to continue the development of J2Store and its thriving ecosystem.
 
-# Header 1
-## Header 2
-### Header 3
+Since J2Store already has over 200+ payment gateways, shipping methods and apps, it would be quite beneficial to store owners switching from K2Store. They can now build a robust online business using J2Store and its ecosystem.
 
-- Bulleted
-- List
+### What are the next steps?
+If you are running a store with K2Store, please consider switching to J2Store. It has integration with K2 and you can continue to use your K2 Items as products.
 
-1. Numbered
-2. List
+### I still have an active PRO subscription
 
-**Bold** and _Italic_ and `Code` text
+Please get in touch with us at [J2Store](https://www.j2store.org/support/contact-us.html). We can assist with transferring it.
 
-[Link](url) and ![Image](src)
-```
+### Why J2Store?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+As we mentioned earlier, J2Store has grown to the most popular eCommerce toolkits for Joomla. With over 100+ features, you can build almost any type of eCommerce websites with J2Store.
 
-### Jekyll Themes
+#### Here are some key features:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rameshelamathi/k2store/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Unlimited product catalog
+- Product Types - Simple, Configurable, Variable, Downloadable
+- Inventory management
+- Advanced Pricing management
+- Coupons / Discounts / Vouchers
+- Import products via CSV
+- 75+ Payment gateways including PayPal, Stripe, Authorize.net, BrainTree, Mollie, Klarna and more.
+- 15+ Shipping integrations including USPS, FedEx, UPS, Australia Post, Canada Post
+- 50+ Apps including ShipStation, Bulk Discounts, PDF Invoices, Points and Rewards, Wishlist, Gift Cards, Bundled products 
+- Subscriptions and Recurring billing (add-on)
+- Booking and Reservations (add-on)
+- Partial Payments and Deposits (add-on)
 
-### Support or Contact
+[See more features](https://www.j2store.org/features.html)
+[Demo](https://www.j2store.org/demo-stores.html)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### I have more questions
+
+Feel free to get in touch [our support](https://www.j2store.org/support/contact-us.html). Happy to assist you!
