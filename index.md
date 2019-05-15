@@ -24,7 +24,7 @@ Please get in touch with us at [J2Store](https://www.j2store.org/support/contact
 
 ### Why J2Store?
 
-As we mentioned earlier, J2Store has grown to the most popular eCommerce toolkits for Joomla. With over 100+ features, you can build almost any type of eCommerce websites with J2Store.
+As we mentioned earlier, [J2Store](https://www.j2store.org) has grown to become the most popular eCommerce toolkit for Joomla. With over 100+ features, you can build almost any type of eCommerce websites with J2Store.
 
 #### Here are some key features:
 
