@@ -1,7 +1,9 @@
 ## Welcome
 
-K2Store is one the most loved simple eCommerce solution that worked based on the famous K2 content construction Kit for Joomla.  
-After serving the community for well over 5 years, we are archiving the project, in favour of our robust eCommerce platform for Joomla - [J2Store](https://www.j2store.org). 
+K2Store is one the most loved simple eCommerce solution that worked based on the famous K2 content construction Kit for Joomla.
+
+### Project Status
+After serving the community for well over 5 years, we are **archiving the project**, in favour of our robust eCommerce platform for Joomla - [J2Store](https://www.j2store.org). So there will be no updates or support available for the project. 
 
 We strongly recommend you to switch to J2Store as it is more flexible, offers tons of features and also has integration with your favourite K2, the CCK for Joomla.
 
