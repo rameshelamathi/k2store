@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Happy that found us!
 
-You can use the [editor on GitHub](https://github.com/rameshelamathi/k2store/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+K2Store has been archived in favour of our robust eCommerce platform for Joomla - [J2Store](https://www.j2store.org). We strongly recommend you to switch to J2Store as it is more flexible, offers tons of features and also has integration with your favourite K2, the CCK for Joomla.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
