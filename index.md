@@ -5,7 +5,8 @@ K2Store is one the most loved simple eCommerce solution that worked based on the
 ### Project Status
 After serving the community for well over 5 years, we are **archiving the project**, in favour of our robust eCommerce platform for Joomla - [J2Store](https://www.j2store.org). So there will be no updates or support available for the project. 
 
-We strongly recommend you to switch to J2Store as it is more flexible, offers tons of features and also has integration with your favourite K2, the CCK for Joomla.
+We strongly recommend you to switch to J2Store as it is more flexible, offers tons of features. 
+NOTE: You will need to re-create your products as Joomla articles because J2Store uses the Joomla articles as products.
 
 ### Why the change of heart?
 
@@ -16,7 +17,8 @@ Instead of dividing the attention and time between two similar solutions, we dec
 Since J2Store already has over 200+ payment gateways, shipping methods and apps, it would be quite beneficial to store owners switching from K2Store. They can now build a robust online business using J2Store and its ecosystem.
 
 ### What are the next steps?
-If you are running a store with K2Store, please consider switching to J2Store. It has integration with K2 and you can continue to use your K2 Items as products.
+If you are running a store with K2Store, please consider switching to J2Store. 
+NOTE: You will need to re-create your products as Joomla articles because J2Store uses the Joomla articles as products.
 
 ### I still have an active PRO subscription
 
@@ -28,6 +30,7 @@ As we mentioned earlier, [J2Store](https://www.j2store.org) has grown to become 
 
 #### Here are some key features:
 
+- Joomla articles as products
 - Unlimited product catalog
 - Product Types - Simple, Configurable, Variable, Downloadable
 - Inventory management
