@@ -20,10 +20,6 @@ Since J2Store already has over 200+ payment gateways, shipping methods and apps,
 If you are running a store with K2Store, please consider switching to J2Store. 
 NOTE: You will need to re-create your products as Joomla articles because J2Store uses the Joomla articles as products.
 
-### I still have an active PRO subscription
-
-Please get in touch with us at [J2Store](https://www.j2store.org/support/contact-us.html). We can assist with transferring it.
-
 ### Why J2Store?
 
 As we mentioned earlier, [J2Store](https://www.j2store.org) has grown to become the most popular eCommerce toolkit for Joomla. With over 100+ features, you can build almost any type of eCommerce websites with J2Store.
